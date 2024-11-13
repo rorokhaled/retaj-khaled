@@ -102,6 +102,7 @@ CircleAvatar(backgroundImage:NetworkImage("https://encrypted-tbn0.gstatic.com/im
                    Navigator.push(context, MaterialPageRoute(
                        builder: (context) =>
                            detils()));
+                   //reta
                  }
                }
               }, child: Text("login")),
